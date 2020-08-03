@@ -1,0 +1,13 @@
+doremipizza\Item.class
+doremipizza\StoreRepository.class
+doremipizza\AbstractEvent$1.class
+doremipizza\RatingApplication.class
+doremipizza\config\kafka\KafkaProcessor.class
+doremipizza\StoreController.class
+doremipizza\DeliveryCompleted.class
+doremipizza\Store.class
+doremipizza\ItemController.class
+doremipizza\ItemRepository.class
+doremipizza\AbstractEvent.class
+doremipizza\Rated.class
+doremipizza\PolicyHandler.class
